@@ -1,2 +1,2 @@
-# timeSeries
-Collection of Notebook about Pandas
+# Basics
+Collection of Notebook about Basic Tools for Data Science
