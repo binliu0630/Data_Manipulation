@@ -1,2 +1,2 @@
 # Basics
-Notebook about Basic Tools for Data Manipulation and Visualization
+Notebooks about Basic Tools for Data Manipulation and Visualization
