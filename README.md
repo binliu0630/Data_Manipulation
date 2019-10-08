@@ -1,2 +1,2 @@
 # Basics
-Notebooks about Tools for Data Manipulation and Visualization
+Notebooks about Tools for Data Manipulation with Pandas
